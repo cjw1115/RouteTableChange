@@ -1,0 +1,1 @@
+*/1 * * * * sh /home/cjw1115/route/pant.sh >> /home/cjw1115/route/pant_log.txt

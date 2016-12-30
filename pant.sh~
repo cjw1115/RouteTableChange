@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "pant start"
+v=$(sudo wget http://gdjwgl.bjut.edu.cn)
+echo "$v"
+echo "pant end"

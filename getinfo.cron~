@@ -1,0 +1,1 @@
+13 17 * * *  sh /home/cjw1115/route/getinfo.sh >> /home/cjw1115/route/info.txt
